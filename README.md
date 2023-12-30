@@ -2,4 +2,5 @@
 
 ###  PROJECTS : -
 
-1. Music Store 
+1. Music Store
+2. Walmart Sales
